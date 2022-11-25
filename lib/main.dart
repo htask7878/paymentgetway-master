@@ -58,8 +58,8 @@ class _MyHomePageState extends State<MyHomePage> {
               var options = {
                 'key': 'rzp_test_flL4Lf60LnHfpm',
                 // 'key': 'rzp_live_ILgsfZCZoFIKMb',
-                'amount': 1000,
-                'name': 'Dhruvin',
+                'amount': 999999900,
+                'name': 'Hardik',
                 'description': 'Testing for Payment',
                 'retry': {'enabled': true, 'max_count': 1},
                 'send_sms_hash': true,
